@@ -1,0 +1,6 @@
+123.1233
+Apple
+Banana
+Cat
+Dog
+{1,2,3,4,5}
